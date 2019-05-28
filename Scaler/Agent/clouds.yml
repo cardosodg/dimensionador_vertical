@@ -1,0 +1,14 @@
+clouds:
+ cloudprod:
+   region_name: RegionOne
+   identity_api_version: '3'
+   auth:
+     username: <admin_username>
+     password: <password_for_admin>
+     project_name: <openstack_admin_project_name>
+     auth_url: <ip_of_keystone_service>
+     project_domain_name: default
+     user_domain_name: default
+     user_domain_id: default
+     project_domain_id: default
+

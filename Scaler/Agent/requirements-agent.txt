@@ -1,0 +1,5 @@
+shade==1.28.0
+os-client-config==1.29.0
+pika
+gnocchiclient
+libvirt-python
